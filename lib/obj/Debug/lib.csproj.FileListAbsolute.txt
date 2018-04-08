@@ -1,0 +1,12 @@
+d:\vsc\saves\lib\lib\bin\Debug\lib.dll
+d:\vsc\saves\lib\lib\bin\Debug\lib.pdb
+d:\vsc\saves\lib\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+d:\vsc\saves\lib\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+d:\vsc\saves\lib\lib\obj\Debug\lib.dll
+d:\vsc\saves\lib\lib\obj\Debug\lib.pdb
+D:\VSCrepos\lib\lib\bin\Debug\lib.dll
+D:\VSCrepos\lib\lib\bin\Debug\lib.pdb
+D:\VSCrepos\lib\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+D:\VSCrepos\lib\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+D:\VSCrepos\lib\lib\obj\Debug\lib.dll
+D:\VSCrepos\lib\lib\obj\Debug\lib.pdb
